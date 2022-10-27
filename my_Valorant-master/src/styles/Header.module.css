@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 30px;
+}
+.container ul {
+  display: flex;
+  list-style: none;
+}
+
+.container ul li a {
+  margin: 50px;
+  background-color: #333;
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 10px;
+  color: antiquewhite;
+}
